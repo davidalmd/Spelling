@@ -1,3 +1,27 @@
-# Spelling - Projeto Final
-O Spelling é um jogo que busca testar a memória do jogador através de sua capacidade de memorizar uma sequência de letras que vai aumentando a cada vez que ele avança nas rodadas da partida. Este é um projeto institucional voltado para obtenção de nota da matéria de Introdução á Programação, ministrada pelo professor Fábio Feliciano, realizado pelos alunos David Lucas, Guilherme Lyare, João Bosco e Luiz Carlos, discentes do curso de Engenharia de Software pelo IFPE - Campus Belo Jardim.
-Todos nós esperamos que você tenha uma ótima experiência e que se sinta desafiado a melhorar seus resultados cada vez mais. Bom jogo!
+# 🧠 Spelling - Desafio de Memória
+
+**Spelling** é um jogo focado em testar e exercitar a capacidade de memorização do jogador. Desenvolvido em **Python**, o jogo apresenta uma mecânica progressiva: o desafio aumenta a cada rodada, exigindo que o jogador memorize sequências de letras cada vez mais longas.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Linguagem:** Python
+- **Bibliotecas:** PyGame e Tkinter
+
+## 📋 Sobre o Projeto
+
+Este é um projeto institucional desenvolvido como requisito avaliativo da disciplina de **Introdução à Programação**. O objetivo foi aplicar conceitos fundamentais de lógica e estruturação de código na criação de uma aplicação interativa e funcional.
+
+**Instituição:** IFPE - Campus Belo Jardim
+**Curso:** Engenharia de Software
+**Docente:** Prof. Fábio Feliciano
+
+### 👥 Autores
+
+Projeto realizado pelos discentes:
+- David Almeida
+- Guilherme Lyare
+- João Bosco
+- Luiz Carlos
+
+---
+Esperamos que você tenha uma ótima experiência e se sinta desafiado a superar seus recordes a cada partida. **Bom jogo!**
